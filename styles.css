@@ -76,8 +76,9 @@ body {
 }
 
 .cancel {
-    background: #eee;
+    background: #ddd;
     color: blueviolet;
+    border: 0;
 }
 
 .continue,
