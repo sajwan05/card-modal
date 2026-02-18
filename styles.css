@@ -79,3 +79,10 @@ body {
     background: #eee;
     color: blueviolet;
 }
+
+.continue,
+.cancel,
+.close-btn,
+.icon {
+    cursor: pointer;
+}
