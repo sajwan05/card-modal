@@ -64,3 +64,18 @@ body {
     height: 30px;
     width: 30px;
 }
+
+.continue,
+.cancel {
+    padding: 0.5rem 1rem;
+    font-size: inherit;
+    border-radius: 8px;
+
+    color: #fff;
+    background: blueviolet;
+}
+
+.cancel {
+    background: #eee;
+    color: blueviolet;
+}
