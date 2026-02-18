@@ -98,3 +98,7 @@ body {
 .icon {
     cursor: pointer;
 }
+
+.text {
+    margin: 0.7rem 0;
+}
